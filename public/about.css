@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    
+}
+.text{
+    width: 75%;
+    text-align: justify;
+    
+}
+.main{
+    
+    display: flex;
+    justify-content: center;
+}
